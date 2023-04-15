@@ -29,7 +29,7 @@ called “EmptyAutosarFileException”.
 - If any requirement is missing or unclear, you should make reasonable assumptions and 
 document them in your code.
 
-## Files Description:
+## Files used in assignment:
 
 - **LAB6.java**: This is the java code section.
 
