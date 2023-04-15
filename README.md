@@ -11,7 +11,7 @@ a name sub-container “SHORT-NAME”.
 
 - Write the reordered containers to a new ARXML file with the same name as the input file, 
 but with “_mod.arxml” appended to it. For example, if the input file is “Rte_Ecuc.arxml”, 
-the output file should be “Rte_Ecuc_mod.arxml”.
+the output file should be “Rte_Ecuc_mod.arxml”
 
 ## Requirements:
 
